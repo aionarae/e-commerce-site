@@ -1,7 +1,7 @@
 # E-Commerce Site
   
-## Screenshot:
-
+## Screencast:
+File is too big to upload to Github.
 
 ## Link to deployed application:
 
